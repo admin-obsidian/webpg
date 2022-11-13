@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"http://jarksolution.com/p1",
+  "homepage":"https://jarkweb.herokuapp.com/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
